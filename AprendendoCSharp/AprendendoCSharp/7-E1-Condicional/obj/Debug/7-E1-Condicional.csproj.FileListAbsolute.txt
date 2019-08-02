@@ -1,0 +1,6 @@
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\bin\Debug\7-E1-Condicional.exe.config
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\bin\Debug\7-E1-Condicional.exe
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\bin\Debug\7-E1-Condicional.pdb
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\obj\Debug\7-E1-Condicional.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\obj\Debug\7-E1-Condicional.exe
+C:\AprendendoCSharp\AprendendoCSharp\7-E1-Condicional\obj\Debug\7-E1-Condicional.pdb

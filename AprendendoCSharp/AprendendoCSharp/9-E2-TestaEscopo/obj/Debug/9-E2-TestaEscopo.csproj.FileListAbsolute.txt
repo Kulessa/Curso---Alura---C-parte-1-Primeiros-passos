@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\bin\Debug\9-E2-TestaEscopo.exe.config
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\bin\Debug\9-E2-TestaEscopo.exe
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\bin\Debug\9-E2-TestaEscopo.pdb
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\obj\Debug\9-E2-TestaEscopo.csprojAssemblyReference.cache
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\obj\Debug\9-E2-TestaEscopo.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\obj\Debug\9-E2-TestaEscopo.exe
+C:\AprendendoCSharp\AprendendoCSharp\9-E2-TestaEscopo\obj\Debug\9-E2-TestaEscopo.pdb
